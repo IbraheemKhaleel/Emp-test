@@ -1,2 +1,0 @@
-This is a program which calculates the wage of an employee, considering
-total wage and working hours. Thank you.
